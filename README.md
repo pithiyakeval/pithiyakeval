@@ -7,7 +7,7 @@
   <a href="https://github.com/pithiyakeval"><img src="cards/tile-3.svg" width="32.5%" alt="Status: Open to work"></a>
 </p>
 
-<p><img src="cards/activity.svg" width="100%" alt="145 contributions in 12 months; streak 1 days; 28 active days; busiest day Oct 15"></p>
+<p><img src="cards/activity.svg" width="100%" alt="145 contributions in 12 months; streak 0 days; 28 active days; busiest day Oct 15"></p>
 
 <p><a href="https://github.com/pithiyakeval/ResumeParser"><img src="cards/repo-ResumeParser.svg" width="100%" alt="ResumeParser: Resume Parser Web App is a tool that allows users to upload resumes in PDF or DOCX format and automatically extracts key information like name, contact, email, experience, and skills. Built with Flask and React, it uses NLP techniques to handle resumes of various formats and structures. Ideal for quick resume screening and data extraction."></a></p>
 
